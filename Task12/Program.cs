@@ -19,10 +19,4 @@ else
 {
     Console.WriteLine($"не кратно, остаток от деления {result}");
 }
-
-int Multiple(int num1, int num2)
-{
-    return num1 % num2;
-}
-
 // Дописать через метод
