@@ -37,4 +37,6 @@ SomeMethod(Convert.ToInt32(Console.ReadLine()));
 //Или :)
 
 
-//Console.WriteLine(Console.ReadLine()[2]);
+
+// var num = Console.ReadLine(); 
+//         Console.WriteLine(num.Lenght < 3 ? "Третьей цифры нет" : num[2]);
